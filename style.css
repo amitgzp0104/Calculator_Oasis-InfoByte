@@ -1,0 +1,87 @@
+.container{
+    text-align: center;
+    margin-top:25px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 15px;
+    border: 5px solid #244624;
+    font-size:50px;
+    height: 100px;
+    width: 530px;
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+
+button{
+    
+    border-radius: 20px;
+    font-size: 45px;
+    background: #323022;
+    width: 110px;
+    height: 90px;
+    margin: 6px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+#button1{
+    border-radius: 20px;
+    font-size: 40px;
+    background: rgb(73, 83, 47);
+    width: 200px;
+    height: 90px;
+    margin: 6px;    
+}
+
+#clear{
+border-radius: 20px;
+    font-size: 40px;
+    text-emphasis-color: red;
+    background: rgb(138, 25, 5);
+    width: 110px;
+    height: 90px;
+    margin: 6px;
+}
+
+.bu{
+    border-radius: 20px;
+    font-size: 50px;
+    background: rgb(103, 153, 136);
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+#but{
+    border-radius: 20px;
+    font-size: 45px;
+    background: rgb(73, 83, 47);
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+.calculator{ 
+    border: 4px solid #13695d;
+    background-color: hsl(174, 14%, 30%);
+    padding: 23px;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: inline-block;   
+}
+
+#head{
+    font-size: 56px;
+    font-family:calc(), Courier, monospace;
+    color:rgba(44, 40, 36, 0.689);
+}
+
+#field1{
+    background-color: #aab1aa;
+    text-emphasis-color: black;
+}
